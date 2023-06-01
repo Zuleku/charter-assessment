@@ -1,0 +1,100 @@
+[
+  {
+    "transaction_id": "a1b2c3d4",
+    "timestamp": "2023-01-01T09:15:23",
+    "description": "Coffee shop",
+    "amount": 5.99,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "e5f6g7h8",
+    "timestamp": "2023-01-04T14:30:45",
+    "description": "Supermarket",
+    "amount": 45.75,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "i9j0k1l2",
+    "timestamp": "2023-01-08T11:20:10",
+    "description": "Restaurant bill",
+    "amount": 89.99,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "m3n4o5p6",
+    "timestamp": "2023-01-12T16:45:12",
+    "description": "Online purchase",
+    "amount": 67.20,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "q7r8s9t1",
+    "timestamp": "2023-02-10T13:10:30",
+    "description": "Gas station",
+    "amount": 32.75,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "u2v3w4x5",
+    "timestamp": "2023-02-20T08:45:17",
+    "description": "Restaurant bill",
+    "amount": 75.50,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "y6z7a8b9",
+    "timestamp": "2023-02-25T12:30:21",
+    "description": "Coffee shop",
+    "amount": 7.99,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "c1d2e3f4",
+    "timestamp": "2023-03-04T19:15:33",
+    "description": "Supermarket",
+    "amount": 59.80,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "g5h6i7j8",
+    "timestamp": "2023-03-12T15:20:40",
+    "description": "Online purchase",
+    "amount": 98.30,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "k1l2m3n4",
+    "timestamp": "2023-03-17T10:55:52",
+    "description": "Gas station",
+    "amount": 25.60,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "o5p6q7r8",
+    "timestamp": "2023-04-07T16:30:15",
+    "description": "Coffee shop",
+    "amount": 9.99,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "s9t1u2v3",
+    "timestamp": "2023-04-10T11:40:28",
+    "description": "Online purchase",
+    "amount": 145.25,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "w4x5y6z7",
+    "timestamp": "2023-04-13T14:55:37",
+    "description": "Restaurant bill",
+    "amount": 178.80,
+    "account_number": "2468135790"
+  },
+  {
+    "transaction_id": "a8b9c1d2",
+    "timestamp": "2023-04-16T10:20:48",
+    "description": "Supermarket",
+    "amount": 150.50,
+    "account_number": "2468135790"
+  }
+]
